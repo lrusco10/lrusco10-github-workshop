@@ -1,6 +1,6 @@
 {
-    "nickname": "",
-    "graduation_year": "",
-    "current_classes": [],
-    "favorite_languages": "",
+    "nickname": "Landon",
+    "graduation_year": "2026",
+    "current_classes": ["CSC461", "CSC462", "CSC263", "MATH225"],
+    "favorite_languages": "Scala"
 }
