@@ -1,6 +1,6 @@
 {
-    "nickname": "",
-    "graduation_year": "",
-    "current_classes": [],
-    "favorite_languages": "",
+    "nickname": "Jared",
+    "graduation_year": "2027",
+    "current_classes": ["CSC322", "CSC344", "MAT300", "MAT318", "ISC300"],
+    "favorite_languages": "C"
 }
